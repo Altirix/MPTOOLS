@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "rea": {
+      "type": "http",
+      "url": "https://mcp.peacocks.me/rea/mptools/mcp"
+    },
+    "rea-cli": {
+      "type": "http",
+      "url": "https://mcp.peacocks.me/rea/mptools/cli/mcp"
+    }
+  }
+}
